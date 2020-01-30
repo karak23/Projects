@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="example_5-star_grayscale" size="0.395000 0.276500" />
+    <ImageTarget name="Spider-Man" size="0.135000 0.171633" />
+    <ImageTarget name="pokemon" size="0.063000 0.087165" />
+    <ImageTarget name="Poki" size="0.063000 0.126000" />
+  </Tracking>
+</QCARConfig>
